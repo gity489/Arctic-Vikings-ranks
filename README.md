@@ -1,5 +1,5 @@
  <style>
-  /* Red + white gradient background */
+  /* cyan + blue + royal blue gradient background */
   body {
     margin: 0;
     height: 100vh;
