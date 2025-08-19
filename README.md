@@ -26,7 +26,6 @@
     box-shadow: 0 4px 20px rgba(0,0,0,0.3);
   }
 </style>
-</head>
 <body>
   <div class="content-box">
   <h2>LEADERSHIP</h2>  
