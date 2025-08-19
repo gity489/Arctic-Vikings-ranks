@@ -3,7 +3,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Arctic Vikings</title>
-<style>
+<body>
+  <style>
   /* Cyan + blue + royal gradient background */
   body {
     margin: 0;
@@ -16,7 +17,7 @@
     align-items: center;
     font-family: Arial, sans-serif;
   </style>
-
+</body>
 
   <h2>LEADERSHIP</h2>  
   <p>matthew12edit</p>
